@@ -1,0 +1,22 @@
+Casco aerodinamicode fibra de carbon sin certif.;183;12
+Casco cerrado CE certif. de fibra de carbon;345;4
+Casco cerrado CE certif. de fibra de carbon;236;5
+Casco aerodinamicode fibra de carbon sin certif.;186;7
+Casco cerrado CE certif. de fibra de carbon;323;6
+Radio transreciver 2mts.;200;5
+Receptor gps;450;10
+Chamarra Skyline c/ proteccion de viento;110;7
+Reserva cap 84 kg;504;5
+Reserva cap 100 kg;540;3
+Reserva cap 140 kg;540;4
+Reserva cap 160 kg;737;8
+Reserva cap 200 kg;808;9
+Mosqueton de acero inoxidable;51,2;11
+cockpit contenedor;59;12
+Cockpit para competencia;59;6
+Cubre piernas aerodinamico para arnes;177;8
+cubierta porta radio de neopreno;10;7
+cubierta porta vario de neopreno;10;5
+cubierta porta GPS de neopreno;10;12
+Overall con doble cierre;255;5
+Overall con cierre sencillo;250;6
