@@ -46,6 +46,7 @@ if(isset($_POST["subir"]))
                 }    
             ?>
         </table>
+        <?php echo "hola";?>
     </body>
 </html>
 
